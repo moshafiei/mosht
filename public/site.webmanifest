@@ -1,9 +1,9 @@
 {
-	"name": "Mohsen Shafiei",
-	"description": "I'm Mohsen Shafiei and I am a Frontend Engineer. I am From Iran and I live in Singapore.",
-	"short_name": "Mohsen Shafiei",
-  "lang": "en",
-  "start_url": "/",
+	"name": "Mo Shafiei",
+	"description": "I'm Mo Shafiei and I am a Frontend Engineer. I am From Iran and I live in Singapore.",
+	"short_name": "Mo Shafiei",
+	"lang": "en",
+	"start_url": "/",
 	"icons": [
 		{
 			"src": "/android-chrome-192x192.png",

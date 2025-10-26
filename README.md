@@ -18,7 +18,7 @@ npm install -g pnpm
 First, you need to clone the repository from GitHub. You can do this by running the following command in your terminal:
 
 ```bash
-git clone git@github.com:mohsenshafiei/mosht.git
+git clone git@github.com:moshafiei/mosht.git
 ```
 
 Please replace `mosht` with the URL of this repository.
